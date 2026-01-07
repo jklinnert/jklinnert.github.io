@@ -1,21 +1,32 @@
 papers:
 
-  - title: "Community Notes Moderate Engagement With and Diffusion of False Information Online"
-    authors: "Isaac Slaughter, Axel Peytavin, Johan Ugander, <b>Martin Saveski</b>"
-    venue: "Arxiv'25: arXiv preprint. 2025."
-    paper_pdf: "/assets/publications/2025_cn_causal_effects/paper.pdf"
+  - title: "The Transmission of Trade Shocks in Digital Markets"
+    authors: "J. Klinnert"
+    venue: ""
+    paper_pdf: ""
     selected: y
 
-  - title: "Reranking Social Media Feeds: A Practical Guide for Field Experiments"
-    authors: "Tiziano Piccardi<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>, Chenyan Jia<sup>‡</sup>, Jeffrey Hancock, Jeanne L Tsai, Michael S Bernstein"
+  - title: "Badges as Signals: Amazon’s Certification System"
+    authors: "J. Klinnert"
     venue: "Arxiv'24: arXiv preprint. 2024."
     paper_pdf: "/assets/publications/2024_feedwizard_method/paper.pdf"
     code: "https://github.com/StanfordHCI/FeedMonitor"
     selected: y
 
-  - title: "Human Atlas: A Tool for Mapping Social Networks"
-    authors: "<b>Martin Saveski</b>, Eric Chu, Soroush Vosoughi, Deb Roy"
-    venue: "WWW'16: International Conference on the World Wide Web. 2016. (Demo)"
-    paper_pdf: "/assets/publications/2016_human_atlas/paper.pdf"
-    video: "https://www.youtube.com/watch?v=OQOUHkJdA-U"
+  - title: "Markdown Pricing and Spillovers from New Product"
+    authors: "D. Aparicio, J. Klinnert, and G. Perakis"
+    venue: ""
+    paper_pdf: ""
+    selected: n
+
+  - title: "Persistence and path dependence of Neo-European institutions: Evidence from the British colonial rule in Kenya "
+    authors: R. Bajo-Buenestado and J. Klinnert"
+    venue: ""
+    paper_pdf: ""
+    selected: n
+
+    - title: "Markdown Pricing and Spillovers from New Product "
+    authors: "D. Aparicio, J. Klinnert, and G. Perakis"
+    venue: ""
+    paper_pdf: ""
     selected: n
