@@ -36,7 +36,7 @@ experiences:
   subtitle: "Prof. Raul Bajo-Buenestado"
   category: "work"
 
-  - place: "University of Navarra"
+- place: "University of Navarra"
   time: "2020 – 2021"
   title: "M.Sc. Student"
   subtitle: "Economics and Finance"
@@ -48,7 +48,7 @@ experiences:
   subtitle: "Google Trends Data"
   category: "work"
   
-  - place: "Ludwig-Maximilians-Universität München"
+- place: "Ludwig-Maximilians-Universitaet Muenchen"
   time: "2017 – 2020"
   title: "B.Sc. Student"
   subtitle: "Economics"
