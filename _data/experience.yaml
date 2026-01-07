@@ -41,8 +41,14 @@ experiences:
   title: "M.Sc. Student"
   subtitle: "Economics and Finance"
   category: "school"
-
-  - place: "Ludwig-Maximilian University"
+  
+- place: "D2-Analytics"
+  time: "Summer 2020"
+  title: "Data Analyst"
+  subtitle: "Google Trends Data"
+  category: "work"
+  
+  - place: "Ludwig-Maximilians-Universität München"
   time: "2017 – 2020"
   title: "B.Sc. Student"
   subtitle: "Economics"
