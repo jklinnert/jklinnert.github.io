@@ -1,14 +1,25 @@
 projects:
-  - title: "Detecting Network Effects"
-    subtitle: "Randomizing Over Randomized Experiments"
-    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
-    url: "projects/2016_network-ab-testing.html"
+  - title: "The Transmission of Trade Shocks in Digital Markets"
+    authors: "J. Klinnert"
     selected: y
 
-  - title: "Human Atlas"
-    subtitle: "Tool for Mapping Social Networks"
-    thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
-    url: "projects/2016_human-atlas.html"
+  - title: "Badges as Signals: Amazon’s Certification System"
+    authors: "J. Klinnert"
     selected: y
+
+  - title: "Markdown Pricing and Spillovers from New Product"
+    authors: "D. Aparicio, J. Klinnert, and G. Perakis"
+    selected: y
+
+  - title: "Persistence and path dependence of Neo-European institutions: Evidence from the British colonial rule in Kenya "
+    authors: R. Bajo-Buenestado and J. Klinnert"
+    selected: y
+
+  - title: "Making urban slum population visible: citizens and satellites to reinforce slum censuses"
+    authors: "A. Abascal, S. Georganos, M. Kuffer, S. Vanhuysse, D. Thomson, J. Wang, L. Manyasi, D. Otunga, B. Ochieng, T. Ochieng, J. Klinnert, E. Wolff"
+    venue: "Urban inequalities from space: Earth observation applications in the majority world"
+    paper_pdf: "https://link.springer.com/chapter/10.1007/978-3-031-49183-2_14"
+    selected: y
+
 
  
