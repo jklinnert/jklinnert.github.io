@@ -2,31 +2,20 @@ papers:
 
   - title: "The Transmission of Trade Shocks in Digital Markets"
     authors: "J. Klinnert"
-    venue: ""
-    paper_pdf: ""
     selected: y
 
   - title: "Badges as Signals: Amazon’s Certification System"
     authors: "J. Klinnert"
-    venue: "Arxiv'24: arXiv preprint. 2024."
-    paper_pdf: "/assets/publications/2024_feedwizard_method/paper.pdf"
-    code: "https://github.com/StanfordHCI/FeedMonitor"
     selected: y
 
   - title: "Markdown Pricing and Spillovers from New Product"
     authors: "D. Aparicio, J. Klinnert, and G. Perakis"
-    venue: ""
-    paper_pdf: ""
     selected: n
 
   - title: "Persistence and path dependence of Neo-European institutions: Evidence from the British colonial rule in Kenya "
     authors: R. Bajo-Buenestado and J. Klinnert"
-    venue: ""
-    paper_pdf: ""
     selected: n
 
-    - title: "Markdown Pricing and Spillovers from New Product "
+  - title: "Markdown Pricing and Spillovers from New Product"
     authors: "D. Aparicio, J. Klinnert, and G. Perakis"
-    venue: ""
-    paper_pdf: ""
     selected: n
