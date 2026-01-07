@@ -1,7 +1,8 @@
-source:      .
+source: .
 destination: ./_site
-includes:    ./_includes
-baseurl: /msaveski
+includes: ./_includes
+url: "https://jklinnert.github.io"
+baseurl: ""
 
 collections:
   projects:
