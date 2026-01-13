@@ -1,18 +1,18 @@
 experiences:
 
-- place: "[The World Bank Group](https://www.enterprisesurveys.org/en/enterprisesurveys)"
+- place: '<a href="https://www.enterprisesurveys.org/en/enterprisesurveys" target="_blank" rel="noopener">The World Bank Group</a>'
   time: "2024 - now"
   title: "Consultant"
   subtitle: "Enterprise Survey Unit"
   category: "work"
 
-- place: "{Power Auctions LLC}(https://www.powerauctions.com/company)
+- place: '<a href="https://www.powerauctions.com" target="_blank" rel="noopener">Power Auctions LLC</a>'
   time: "Summer 2025"
   title: "Internship"
   subtitle: "Researcher and Quality Assurance Specialist"
   category: "work"
 
-- place: "{Power Auctions LLC}(https://www.powerauctions.com/company)
+- place: '<a href="https://www.powerauctions.com" target="_blank" rel="noopener">Power Auctions LLC</a>'
   time: "Summer 2024"
   title: "Internship"
   subtitle: "Researcher and Quality Assurance Specialist"
@@ -24,13 +24,13 @@ experiences:
   subtitle: "Economics: Industrial Organization"
   category: "school"
 
-- place: "{IESE Business School}(https://www.iese.edu/faculty-research/faculty/diego-aparicio/)"
+- place: '<a href="https://www.iese.edu/faculty-research/faculty/diego-aparicio/" target="_blank" rel="noopener">IESE Business School</a>'
   time: "2021-2022"
   title: "Research Associate"
   subtitle: "Prof. Diego Aparicio"
   category: "work"
 
-- place: "[NCID]((https://ncid.unav.edu/en/home))"
+- place: '<a href="https://ncid.unav.edu/en/home" target="_blank" rel="noopener">NCID</a>'
   time: "2021-2022"
   title: "Junior Researcher"
   subtitle: "Prof. Raul Bajo-Buenestado"
@@ -42,7 +42,7 @@ experiences:
   subtitle: "Economics and Finance"
   category: "school"
   
-- place: "[D2-Analytics](https://d2analytics.io/)"
+- place: '<a href="https://d2analytics.io/" target="_blank" rel="noopener">D2-Analytics</a>'
   time: "Summer 2020"
   title: "Data Analyst"
   subtitle: "Google Trends Data"
