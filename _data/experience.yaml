@@ -1,6 +1,6 @@
 experiences:
 
-- place: '<a href="https://www.worldbank.org" target="_blank" rel="noopener">The World Bank Group</a>'
+- place: "[The World Bank Group](https://www.worldbank.org)"
   time: "2024 - now"
   title: "Consultant"
   subtitle: "Enterprise Survey Unit"
