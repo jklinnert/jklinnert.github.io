@@ -1,18 +1,18 @@
 experiences:
 
-- place: "[The World Bank Group](https://www.worldbank.org)"
+- place: "[The World Bank Group](https://www.enterprisesurveys.org/en/enterprisesurveys)"
   time: "2024 - now"
   title: "Consultant"
   subtitle: "Enterprise Survey Unit"
   category: "work"
 
-- place: "Power Auctions LLC"
+- place: "{Power Auctions LLC}(https://www.powerauctions.com/company)
   time: "Summer 2025"
   title: "Internship"
   subtitle: "Researcher and Quality Assurance Specialist"
   category: "work"
 
-- place: "Power Auctions LLC"
+- place: "{Power Auctions LLC}(https://www.powerauctions.com/company)
   time: "Summer 2024"
   title: "Internship"
   subtitle: "Researcher and Quality Assurance Specialist"
@@ -24,13 +24,13 @@ experiences:
   subtitle: "Economics: Industrial Organization"
   category: "school"
 
-- place: "IESE Business School"
+- place: "{IESE Business School}(https://www.iese.edu/faculty-research/faculty/diego-aparicio/)"
   time: "2021-2022"
   title: "Research Associate"
   subtitle: "Prof. Diego Aparicio"
   category: "work"
 
-- place: "NCID"
+- place: "[NCID]((https://ncid.unav.edu/en/home))"
   time: "2021-2022"
   title: "Junior Researcher"
   subtitle: "Prof. Raul Bajo-Buenestado"
@@ -42,7 +42,7 @@ experiences:
   subtitle: "Economics and Finance"
   category: "school"
   
-- place: "D2-Analytics"
+- place: "[D2-Analytics](https://d2analytics.io/)"
   time: "Summer 2020"
   title: "Data Analyst"
   subtitle: "Google Trends Data"
