@@ -6,7 +6,11 @@ h4 {
   margin-top: 60px;
   margin-bottom: 60px; 
   text-align: left; }
-/* ADD THIS */
+.header img {
+  width: 100% !important;
+  max-width: 280px !important;
+  height: auto !important;
+}
 .profile-pic {
   width: 100%;
   max-width: 260px;
