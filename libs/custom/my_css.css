@@ -6,11 +6,6 @@ h4 {
   margin-top: 60px;
   margin-bottom: 60px; 
   text-align: left; }
-/* ADD THIS */
-.profile-pic {
-  width: 100%;
-  max-width: 260px;
-}
 .main-description h1 {
   margin-bottom: 0px; }
 .main-description p {
