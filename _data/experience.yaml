@@ -1,5 +1,11 @@
 experiences:
 
+- place: 'Amazon'
+  time: "2026 - present"
+  title: "Co-op"
+  subtitle: "Worldwide Returns and Recommerce"
+  category: "work"
+  
 - place: '<a href="https://www.enterprisesurveys.org/en/enterprisesurveys" target="_blank" rel="noopener">The World Bank Group</a>'
   time: "2024 - 2026"
   title: "Consultant"
