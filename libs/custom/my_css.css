@@ -236,15 +236,28 @@ h4 {
 /* Mobile layout */
 @media (max-width: 600px) {
   #books .book {
-    gap: 15px;
+    gap: 12px;
+    margin-bottom: 25px;
+    align-items: flex-start;
   }
 
   #books .book-image {
-    flex: 0 0 85px;
+    flex: 0 0 75px;
   }
 
   #books .book-image img {
-    width: 85px;
+    width: 75px;
+    height: auto;
+  }
+
+  #books .book-description {
+    min-width: 0;
+    flex: 1;
+  }
+
+  #books .book-description p {
+    font-size: 1.3rem;
+    line-height: 1.5;
   }
 }
 
